@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\01.Exelent-Grade\08.Metric-converter\bin\Debug\08.Metric-converter.exe.config
+C:\Users\Asen\Desktop\01.Exelent-Grade\08.Metric-converter\bin\Debug\08.Metric-converter.exe
+C:\Users\Asen\Desktop\01.Exelent-Grade\08.Metric-converter\bin\Debug\08.Metric-converter.pdb
+C:\Users\Asen\Desktop\01.Exelent-Grade\08.Metric-converter\obj\Debug\08.Metric-converter.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\01.Exelent-Grade\08.Metric-converter\obj\Debug\08.Metric-converter.exe
+C:\Users\Asen\Desktop\01.Exelent-Grade\08.Metric-converter\obj\Debug\08.Metric-converter.pdb

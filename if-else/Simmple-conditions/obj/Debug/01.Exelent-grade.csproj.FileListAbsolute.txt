@@ -1,0 +1,9 @@
+C:\Users\Asen\Desktop\01.Exelent-Grade\Simmple-conditions\bin\Debug\Simmple-conditions.exe.config
+C:\Users\Asen\Desktop\01.Exelent-Grade\Simmple-conditions\bin\Debug\Simmple-conditions.exe
+C:\Users\Asen\Desktop\01.Exelent-Grade\Simmple-conditions\bin\Debug\Simmple-conditions.pdb
+C:\Users\Asen\Desktop\01.Exelent-Grade\Simmple-conditions\obj\Debug\01.Exelent-grade.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\01.Exelent-Grade\Simmple-conditions\obj\Debug\Simmple-conditions.exe
+C:\Users\Asen\Desktop\01.Exelent-Grade\Simmple-conditions\obj\Debug\Simmple-conditions.pdb
+C:\Users\Asen\Desktop\if-else\Simmple-conditions\bin\Debug\Simmple-conditions.exe.config
+C:\Users\Asen\Desktop\if-else\Simmple-conditions\obj\Debug\Simmple-conditions.exe
+C:\Users\Asen\Desktop\if-else\Simmple-conditions\obj\Debug\Simmple-conditions.pdb

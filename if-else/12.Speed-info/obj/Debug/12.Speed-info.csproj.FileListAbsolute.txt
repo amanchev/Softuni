@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\01.Exelent-Grade\12.Speed-info\bin\Debug\12.Speed-info.exe.config
+C:\Users\Asen\Desktop\01.Exelent-Grade\12.Speed-info\bin\Debug\12.Speed-info.exe
+C:\Users\Asen\Desktop\01.Exelent-Grade\12.Speed-info\bin\Debug\12.Speed-info.pdb
+C:\Users\Asen\Desktop\01.Exelent-Grade\12.Speed-info\obj\Debug\12.Speed-info.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\01.Exelent-Grade\12.Speed-info\obj\Debug\12.Speed-info.exe
+C:\Users\Asen\Desktop\01.Exelent-Grade\12.Speed-info\obj\Debug\12.Speed-info.pdb
