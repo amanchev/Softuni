@@ -1,0 +1,5 @@
+C:\Users\Asen\Desktop\Simple-\16exam.classroom\bin\Debug\16exam.classroom.exe
+C:\Users\Asen\Desktop\Simple-\16exam.classroom\bin\Debug\16exam.classroom.pdb
+C:\Users\Asen\Desktop\Simple-\16exam.classroom\obj\Debug\16exam.classroom.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\Simple-\16exam.classroom\obj\Debug\16exam.classroom.exe
+C:\Users\Asen\Desktop\Simple-\16exam.classroom\obj\Debug\16exam.classroom.pdb

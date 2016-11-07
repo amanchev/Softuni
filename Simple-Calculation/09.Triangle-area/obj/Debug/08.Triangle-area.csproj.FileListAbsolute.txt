@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\Simple-\09.Triangle-area\bin\Debug\09.Triangle-area.exe.config
+C:\Users\Asen\Desktop\Simple-\09.Triangle-area\bin\Debug\09.Triangle-area.exe
+C:\Users\Asen\Desktop\Simple-\09.Triangle-area\bin\Debug\09.Triangle-area.pdb
+C:\Users\Asen\Desktop\Simple-\09.Triangle-area\obj\Debug\08.Triangle-area.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\Simple-\09.Triangle-area\obj\Debug\09.Triangle-area.exe
+C:\Users\Asen\Desktop\Simple-\09.Triangle-area\obj\Debug\09.Triangle-area.pdb

@@ -1,0 +1,5 @@
+C:\Users\Asen\Desktop\Simple-\04.Text-and-Numbers\bin\Debug\04.Text-and-Numbers.exe.config
+C:\Users\Asen\Desktop\Simple-\04.Text-and-Numbers\bin\Debug\04.Text-and-Numbers.exe
+C:\Users\Asen\Desktop\Simple-\04.Text-and-Numbers\bin\Debug\04.Text-and-Numbers.pdb
+C:\Users\Asen\Desktop\Simple-\04.Text-and-Numbers\obj\Debug\04.Text-and-Numbers.exe
+C:\Users\Asen\Desktop\Simple-\04.Text-and-Numbers\obj\Debug\04.Text-and-Numbers.pdb

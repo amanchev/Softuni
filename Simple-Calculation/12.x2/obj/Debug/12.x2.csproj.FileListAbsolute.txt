@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\Simple-\12.x2\bin\Debug\12.x2.exe.config
+C:\Users\Asen\Desktop\Simple-\12.x2\bin\Debug\12.x2.exe
+C:\Users\Asen\Desktop\Simple-\12.x2\bin\Debug\12.x2.pdb
+C:\Users\Asen\Desktop\Simple-\12.x2\obj\Debug\12.x2.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\Simple-\12.x2\obj\Debug\12.x2.exe
+C:\Users\Asen\Desktop\Simple-\12.x2\obj\Debug\12.x2.pdb

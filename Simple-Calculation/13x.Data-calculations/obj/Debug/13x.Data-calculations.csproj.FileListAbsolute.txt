@@ -1,0 +1,5 @@
+C:\Users\Asen\Desktop\Simple-\13x.Data-calculations\bin\Debug\13x.Data-calculations.exe
+C:\Users\Asen\Desktop\Simple-\13x.Data-calculations\bin\Debug\13x.Data-calculations.pdb
+C:\Users\Asen\Desktop\Simple-\13x.Data-calculations\obj\Debug\13x.Data-calculations.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\Simple-\13x.Data-calculations\obj\Debug\13x.Data-calculations.exe
+C:\Users\Asen\Desktop\Simple-\13x.Data-calculations\obj\Debug\13x.Data-calculations.pdb

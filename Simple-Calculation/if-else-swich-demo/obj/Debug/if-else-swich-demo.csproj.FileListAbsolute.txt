@@ -1,0 +1,5 @@
+C:\Users\Asen\Desktop\Simple-\if-else-swich-demo\bin\Debug\if-else-swich-demo.exe.config
+C:\Users\Asen\Desktop\Simple-\if-else-swich-demo\bin\Debug\if-else-swich-demo.exe
+C:\Users\Asen\Desktop\Simple-\if-else-swich-demo\bin\Debug\if-else-swich-demo.pdb
+C:\Users\Asen\Desktop\Simple-\if-else-swich-demo\obj\Debug\if-else-swich-demo.exe
+C:\Users\Asen\Desktop\Simple-\if-else-swich-demo\obj\Debug\if-else-swich-demo.pdb

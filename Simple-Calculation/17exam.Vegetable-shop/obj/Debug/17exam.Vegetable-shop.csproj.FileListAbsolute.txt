@@ -1,0 +1,5 @@
+C:\Users\Asen\Desktop\Simple-\17exam.Vegetable-shop\bin\Debug\17exam.Vegetable-shop.exe.config
+C:\Users\Asen\Desktop\Simple-\17exam.Vegetable-shop\bin\Debug\17exam.Vegetable-shop.exe
+C:\Users\Asen\Desktop\Simple-\17exam.Vegetable-shop\bin\Debug\17exam.Vegetable-shop.pdb
+C:\Users\Asen\Desktop\Simple-\17exam.Vegetable-shop\obj\Debug\17exam.Vegetable-shop.exe
+C:\Users\Asen\Desktop\Simple-\17exam.Vegetable-shop\obj\Debug\17exam.Vegetable-shop.pdb
