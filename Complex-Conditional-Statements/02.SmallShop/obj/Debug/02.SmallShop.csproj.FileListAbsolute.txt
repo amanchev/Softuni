@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\02.SmallShop\bin\Debug\02.SmallShop.exe.config
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\02.SmallShop\bin\Debug\02.SmallShop.exe
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\02.SmallShop\bin\Debug\02.SmallShop.pdb
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\02.SmallShop\obj\Debug\02.SmallShop.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\02.SmallShop\obj\Debug\02.SmallShop.exe
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\02.SmallShop\obj\Debug\02.SmallShop.pdb

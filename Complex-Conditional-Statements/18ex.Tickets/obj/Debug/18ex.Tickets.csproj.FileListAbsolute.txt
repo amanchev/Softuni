@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\18ex.Tickets\bin\Debug\18ex.Tickets.exe.config
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\18ex.Tickets\bin\Debug\18ex.Tickets.exe
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\18ex.Tickets\bin\Debug\18ex.Tickets.pdb
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\18ex.Tickets\obj\Debug\18ex.Tickets.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\18ex.Tickets\obj\Debug\18ex.Tickets.exe
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\18ex.Tickets\obj\Debug\18ex.Tickets.pdb

@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\07.FruitShop\bin\Debug\07.FruitShop.exe.config
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\07.FruitShop\bin\Debug\07.FruitShop.exe
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\07.FruitShop\bin\Debug\07.FruitShop.pdb
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\07.FruitShop\obj\Debug\07.FruitShop.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\07.FruitShop\obj\Debug\07.FruitShop.exe
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\07.FruitShop\obj\Debug\07.FruitShop.pdb

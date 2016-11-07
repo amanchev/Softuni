@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\16ex.Numbers-operation\bin\Debug\16ex.Numbers-operation.exe.config
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\16ex.Numbers-operation\bin\Debug\16ex.Numbers-operation.exe
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\16ex.Numbers-operation\bin\Debug\16ex.Numbers-operation.pdb
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\16ex.Numbers-operation\obj\Debug\16ex.Numbers-operation.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\16ex.Numbers-operation\obj\Debug\16ex.Numbers-operation.exe
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\16ex.Numbers-operation\obj\Debug\16ex.Numbers-operation.pdb

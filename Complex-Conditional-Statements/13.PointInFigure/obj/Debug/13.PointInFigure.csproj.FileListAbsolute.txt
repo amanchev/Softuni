@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\13.PointInFigure\bin\Debug\13.PointInFigure.exe.config
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\13.PointInFigure\bin\Debug\13.PointInFigure.exe
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\13.PointInFigure\bin\Debug\13.PointInFigure.pdb
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\13.PointInFigure\obj\Debug\13.PointInFigure.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\13.PointInFigure\obj\Debug\13.PointInFigure.exe
+C:\Users\Asen\Desktop\Complex-Conditional-Statements\13.PointInFigure\obj\Debug\13.PointInFigure.pdb
