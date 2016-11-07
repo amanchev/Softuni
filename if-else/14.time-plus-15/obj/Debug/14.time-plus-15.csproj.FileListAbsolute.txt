@@ -1,6 +1,0 @@
-C:\Users\Asen\Desktop\01.Exelent-Grade\14.time-plus-15\bin\Debug\14.time-plus-15.exe.config
-C:\Users\Asen\Desktop\01.Exelent-Grade\14.time-plus-15\bin\Debug\14.time-plus-15.exe
-C:\Users\Asen\Desktop\01.Exelent-Grade\14.time-plus-15\bin\Debug\14.time-plus-15.pdb
-C:\Users\Asen\Desktop\01.Exelent-Grade\14.time-plus-15\obj\Debug\14.time-plus-15.csprojResolveAssemblyReference.cache
-C:\Users\Asen\Desktop\01.Exelent-Grade\14.time-plus-15\obj\Debug\14.time-plus-15.exe
-C:\Users\Asen\Desktop\01.Exelent-Grade\14.time-plus-15\obj\Debug\14.time-plus-15.pdb

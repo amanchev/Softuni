@@ -1,6 +1,0 @@
-C:\Users\Asen\Desktop\if-else\22ex\bin\Debug\22ex.exe.config
-C:\Users\Asen\Desktop\if-else\22ex\obj\Debug\22ex.exe
-C:\Users\Asen\Desktop\if-else\22ex\obj\Debug\22ex.pdb
-C:\Users\Asen\Desktop\if-else\22ex\bin\Debug\22ex.exe
-C:\Users\Asen\Desktop\if-else\22ex\bin\Debug\22ex.pdb
-C:\Users\Asen\Desktop\if-else\22ex\obj\Debug\22ex.csprojResolveAssemblyReference.cache

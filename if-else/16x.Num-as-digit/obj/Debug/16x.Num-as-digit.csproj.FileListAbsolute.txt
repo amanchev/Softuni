@@ -1,9 +1,0 @@
-C:\Users\Asen\Desktop\01.Exelent-Grade\16x.Num-as-digit\bin\Debug\16x.Num-as-digit.exe.config
-C:\Users\Asen\Desktop\01.Exelent-Grade\16x.Num-as-digit\bin\Debug\16x.Num-as-digit.exe
-C:\Users\Asen\Desktop\01.Exelent-Grade\16x.Num-as-digit\bin\Debug\16x.Num-as-digit.pdb
-C:\Users\Asen\Desktop\01.Exelent-Grade\16x.Num-as-digit\obj\Debug\16x.Num-as-digit.csprojResolveAssemblyReference.cache
-C:\Users\Asen\Desktop\01.Exelent-Grade\16x.Num-as-digit\obj\Debug\16x.Num-as-digit.exe
-C:\Users\Asen\Desktop\01.Exelent-Grade\16x.Num-as-digit\obj\Debug\16x.Num-as-digit.pdb
-C:\Users\Asen\Desktop\if-else\16x.Num-as-digit\bin\Debug\16x.Num-as-digit.exe.config
-C:\Users\Asen\Desktop\if-else\16x.Num-as-digit\obj\Debug\16x.Num-as-digit.exe
-C:\Users\Asen\Desktop\if-else\16x.Num-as-digit\obj\Debug\16x.Num-as-digit.pdb
