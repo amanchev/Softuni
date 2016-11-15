@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\Loops\10x.EqualToSumm\bin\Debug\10x.EqualToSumm.exe.config
+C:\Users\Asen\Desktop\Loops\10x.EqualToSumm\bin\Debug\10x.EqualToSumm.exe
+C:\Users\Asen\Desktop\Loops\10x.EqualToSumm\bin\Debug\10x.EqualToSumm.pdb
+C:\Users\Asen\Desktop\Loops\10x.EqualToSumm\obj\Debug\10x.EqualToSumm.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\Loops\10x.EqualToSumm\obj\Debug\10x.EqualToSumm.exe
+C:\Users\Asen\Desktop\Loops\10x.EqualToSumm\obj\Debug\10x.EqualToSumm.pdb

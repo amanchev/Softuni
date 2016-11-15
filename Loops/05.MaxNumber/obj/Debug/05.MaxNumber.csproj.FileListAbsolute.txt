@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\Loops\05.MaxNumber\bin\Debug\05.MaxNumber.exe.config
+C:\Users\Asen\Desktop\Loops\05.MaxNumber\bin\Debug\05.MaxNumber.exe
+C:\Users\Asen\Desktop\Loops\05.MaxNumber\bin\Debug\05.MaxNumber.pdb
+C:\Users\Asen\Desktop\Loops\05.MaxNumber\obj\Debug\05.MaxNumber.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\Loops\05.MaxNumber\obj\Debug\05.MaxNumber.exe
+C:\Users\Asen\Desktop\Loops\05.MaxNumber\obj\Debug\05.MaxNumber.pdb

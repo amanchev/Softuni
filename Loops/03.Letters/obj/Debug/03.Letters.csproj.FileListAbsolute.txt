@@ -1,0 +1,5 @@
+C:\Users\Asen\Desktop\Loops\03.Letters\bin\Debug\03.Letters.exe.config
+C:\Users\Asen\Desktop\Loops\03.Letters\bin\Debug\03.Letters.exe
+C:\Users\Asen\Desktop\Loops\03.Letters\bin\Debug\03.Letters.pdb
+C:\Users\Asen\Desktop\Loops\03.Letters\obj\Debug\03.Letters.exe
+C:\Users\Asen\Desktop\Loops\03.Letters\obj\Debug\03.Letters.pdb

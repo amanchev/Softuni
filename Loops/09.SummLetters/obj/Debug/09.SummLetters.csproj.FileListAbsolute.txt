@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\Loops\09.SummLetters\bin\Debug\09.SummLetters.exe.config
+C:\Users\Asen\Desktop\Loops\09.SummLetters\bin\Debug\09.SummLetters.exe
+C:\Users\Asen\Desktop\Loops\09.SummLetters\bin\Debug\09.SummLetters.pdb
+C:\Users\Asen\Desktop\Loops\09.SummLetters\obj\Debug\09.SummLetters.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\Loops\09.SummLetters\obj\Debug\09.SummLetters.exe
+C:\Users\Asen\Desktop\Loops\09.SummLetters\obj\Debug\09.SummLetters.pdb
