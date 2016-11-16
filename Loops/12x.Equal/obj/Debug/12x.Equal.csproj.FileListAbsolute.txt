@@ -4,3 +4,9 @@ C:\Users\Asen\Desktop\Loops\12x.Equal\bin\Debug\12x.Equal.pdb
 C:\Users\Asen\Desktop\Loops\12x.Equal\obj\Debug\12x.Equal.csprojResolveAssemblyReference.cache
 C:\Users\Asen\Desktop\Loops\12x.Equal\obj\Debug\12x.Equal.exe
 C:\Users\Asen\Desktop\Loops\12x.Equal\obj\Debug\12x.Equal.pdb
+C:\Users\Asen\Desktop\Softuni\Loops\12x.Equal\bin\Debug\12x.Equal.exe.config
+C:\Users\Asen\Desktop\Softuni\Loops\12x.Equal\obj\Debug\12x.Equal.exe
+C:\Users\Asen\Desktop\Softuni\Loops\12x.Equal\obj\Debug\12x.Equal.pdb
+C:\Users\Asen\Desktop\Softuni\Loops\12x.Equal\bin\Debug\12x.Equal.exe
+C:\Users\Asen\Desktop\Softuni\Loops\12x.Equal\bin\Debug\12x.Equal.pdb
+C:\Users\Asen\Desktop\Softuni\Loops\12x.Equal\obj\Debug\12x.Equal.csprojResolveAssemblyReference.cache

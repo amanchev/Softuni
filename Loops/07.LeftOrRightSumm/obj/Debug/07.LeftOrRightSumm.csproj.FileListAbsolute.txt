@@ -1,1 +1,2 @@
 C:\Users\Asen\Desktop\Loops\07.LeftOrRightSumm\bin\Debug\07.LeftOrRightSumm.exe.config
+C:\Users\Asen\Desktop\Softuni\Loops\07.LeftOrRightSumm\bin\Debug\07.LeftOrRightSumm.exe.config

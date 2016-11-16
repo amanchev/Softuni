@@ -15,38 +15,36 @@ namespace _12x.Equal
             int sum = 0;
             int lastSum = 0;
             bool isAllEqual = true;
-            bool isFirstCheck = true;
             int maxDiff = 0;
         
 
             for (int i = 0; i < n; i++)
             {
-                for (int j = 0; j < 2; j++)
-                {
-                    int num = int.Parse(Console.ReadLine());
-                    sum = sum + num;
-                }
 
-                if (!isFirstCheck && sum == lastSum)
+
+                int a = int.Parse(Console.ReadLine());
+                int b = int.Parse(Console.ReadLine());
+                int num = a + b;
+                    sum = sum + num;
+                
+
+                if ( i!=0 && sum != lastSum)
                 {
-                    isAllEqual = isAllEqual && true;
-                }
-                else if (!isFirstCheck)
-                {
-                    isAllEqual = isAllEqual && false;
+                    isAllEqual = false;
 
                     if (Math.Abs(sum - lastSum) > maxDiff)
                     {
                         maxDiff = Math.Abs(sum - lastSum);
 
                     }
+
                 }
+                
 
 
                 lastSum = sum;
                 sum = 0;
 
-                isFirstCheck = false;
             }
 
             if (isAllEqual)

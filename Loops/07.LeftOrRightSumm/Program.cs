@@ -18,13 +18,14 @@ namespace _07.LeftOrRightSumm
             for (int i = 0; i < n; i++)
             {
                 int newNum = int.Parse(Console.ReadLine());
-                left += newNum;
+                left = left + newNum;
             }
-            for (int i = 0; i < n; i++)
+            for (int i = n; i < 2 * n ; i++)
             {
                 int newNum = int.Parse(Console.ReadLine());
                 right += newNum;
             }
+            
 
             if (left == right)
             {
