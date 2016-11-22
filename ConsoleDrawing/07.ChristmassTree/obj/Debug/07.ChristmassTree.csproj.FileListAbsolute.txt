@@ -1,0 +1,6 @@
+c:\users\asen\documents\visual studio 2015\Projects\ConsoleDrawing\07.ChristmassTree\bin\Debug\07.ChristmassTree.exe.config
+c:\users\asen\documents\visual studio 2015\Projects\ConsoleDrawing\07.ChristmassTree\bin\Debug\07.ChristmassTree.exe
+c:\users\asen\documents\visual studio 2015\Projects\ConsoleDrawing\07.ChristmassTree\bin\Debug\07.ChristmassTree.pdb
+c:\users\asen\documents\visual studio 2015\Projects\ConsoleDrawing\07.ChristmassTree\obj\Debug\07.ChristmassTree.csprojResolveAssemblyReference.cache
+c:\users\asen\documents\visual studio 2015\Projects\ConsoleDrawing\07.ChristmassTree\obj\Debug\07.ChristmassTree.exe
+c:\users\asen\documents\visual studio 2015\Projects\ConsoleDrawing\07.ChristmassTree\obj\Debug\07.ChristmassTree.pdb

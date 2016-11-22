@@ -1,0 +1,6 @@
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\13ex.Butterfly\bin\Debug\13ex.Butterfly.exe.config
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\13ex.Butterfly\bin\Debug\13ex.Butterfly.exe
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\13ex.Butterfly\bin\Debug\13ex.Butterfly.pdb
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\13ex.Butterfly\obj\Debug\13ex.Butterfly.csprojResolveAssemblyReference.cache
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\13ex.Butterfly\obj\Debug\13ex.Butterfly.exe
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\13ex.Butterfly\obj\Debug\13ex.Butterfly.pdb

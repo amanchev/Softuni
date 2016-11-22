@@ -1,0 +1,5 @@
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\08.SunGlasses\bin\Debug\08.SunGlasses.exe.config
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\08.SunGlasses\bin\Debug\08.SunGlasses.exe
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\08.SunGlasses\bin\Debug\08.SunGlasses.pdb
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\08.SunGlasses\obj\Debug\08.SunGlasses.exe
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\08.SunGlasses\obj\Debug\08.SunGlasses.pdb

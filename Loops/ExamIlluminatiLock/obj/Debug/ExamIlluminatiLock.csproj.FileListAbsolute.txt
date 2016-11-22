@@ -1,0 +1,5 @@
+C:\Users\Asen\Desktop\Softuni\Loops\ExamIlluminatiLock\bin\Debug\ExamIlluminatiLock.exe.config
+C:\Users\Asen\Desktop\Softuni\Loops\ExamIlluminatiLock\bin\Debug\ExamIlluminatiLock.exe
+C:\Users\Asen\Desktop\Softuni\Loops\ExamIlluminatiLock\bin\Debug\ExamIlluminatiLock.pdb
+C:\Users\Asen\Desktop\Softuni\Loops\ExamIlluminatiLock\obj\Debug\ExamIlluminatiLock.exe
+C:\Users\Asen\Desktop\Softuni\Loops\ExamIlluminatiLock\obj\Debug\ExamIlluminatiLock.pdb

@@ -1,0 +1,5 @@
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\12ex.Forge\bin\Debug\12ex.Forge.exe.config
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\12ex.Forge\bin\Debug\12ex.Forge.exe
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\12ex.Forge\bin\Debug\12ex.Forge.pdb
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\12ex.Forge\obj\Debug\12ex.Forge.exe
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\12ex.Forge\obj\Debug\12ex.Forge.pdb

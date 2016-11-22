@@ -1,0 +1,6 @@
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\10x.Diamond\bin\Debug\10x.Diamond.exe.config
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\10x.Diamond\bin\Debug\10x.Diamond.exe
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\10x.Diamond\bin\Debug\10x.Diamond.pdb
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\10x.Diamond\obj\Debug\10x.Diamond.exe
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\10x.Diamond\obj\Debug\10x.Diamond.pdb
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\10x.Diamond\obj\Debug\10x.Diamond.csprojResolveAssemblyReference.cache

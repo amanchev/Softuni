@@ -1,0 +1,5 @@
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\14ex.Stop\bin\Debug\14ex.Stop.exe.config
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\14ex.Stop\bin\Debug\14ex.Stop.exe
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\14ex.Stop\bin\Debug\14ex.Stop.pdb
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\14ex.Stop\obj\Debug\14ex.Stop.exe
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\14ex.Stop\obj\Debug\14ex.Stop.pdb

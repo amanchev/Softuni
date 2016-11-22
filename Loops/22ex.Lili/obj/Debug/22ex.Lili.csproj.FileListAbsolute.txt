@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\Softuni\Loops\22ex.Lili\bin\Debug\22ex.Lili.exe.config
+C:\Users\Asen\Desktop\Softuni\Loops\22ex.Lili\bin\Debug\22ex.Lili.exe
+C:\Users\Asen\Desktop\Softuni\Loops\22ex.Lili\bin\Debug\22ex.Lili.pdb
+C:\Users\Asen\Desktop\Softuni\Loops\22ex.Lili\obj\Debug\22ex.Lili.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\Softuni\Loops\22ex.Lili\obj\Debug\22ex.Lili.exe
+C:\Users\Asen\Desktop\Softuni\Loops\22ex.Lili\obj\Debug\22ex.Lili.pdb

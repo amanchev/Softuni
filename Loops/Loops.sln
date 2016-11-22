@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.EvenOrOddPosition", "11.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12x.Equal", "12x.Equal\12x.Equal.csproj", "{55DF0F05-6ACB-4F00-B31C-344109CA5BDE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22ex.Lili", "22ex.Lili\22ex.Lili.csproj", "{1B3F5168-6D0E-432C-BABF-47FEA2618FDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamIlluminatiLock", "ExamIlluminatiLock\ExamIlluminatiLock.csproj", "{A604DE6D-6D82-4C52-A342-92167E16540E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{55DF0F05-6ACB-4F00-B31C-344109CA5BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55DF0F05-6ACB-4F00-B31C-344109CA5BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55DF0F05-6ACB-4F00-B31C-344109CA5BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B3F5168-6D0E-432C-BABF-47FEA2618FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B3F5168-6D0E-432C-BABF-47FEA2618FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B3F5168-6D0E-432C-BABF-47FEA2618FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B3F5168-6D0E-432C-BABF-47FEA2618FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A604DE6D-6D82-4C52-A342-92167E16540E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A604DE6D-6D82-4C52-A342-92167E16540E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A604DE6D-6D82-4C52-A342-92167E16540E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A604DE6D-6D82-4C52-A342-92167E16540E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

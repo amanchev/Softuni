@@ -1,0 +1,6 @@
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\165\bin\Debug\165.exe.config
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\165\bin\Debug\165.exe
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\165\bin\Debug\165.pdb
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\165\obj\Debug\165.exe
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\165\obj\Debug\165.pdb
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\165\obj\Debug\165.csprojResolveAssemblyReference.cache

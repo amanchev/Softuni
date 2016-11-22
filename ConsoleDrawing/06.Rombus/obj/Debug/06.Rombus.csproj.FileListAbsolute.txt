@@ -1,0 +1,6 @@
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\06.Rombus\bin\Debug\06.Rombus.exe.config
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\06.Rombus\bin\Debug\06.Rombus.exe
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\06.Rombus\bin\Debug\06.Rombus.pdb
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\06.Rombus\obj\Debug\06.Rombus.csprojResolveAssemblyReference.cache
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\06.Rombus\obj\Debug\06.Rombus.exe
+C:\Users\Asen\documents\visual studio 2015\Projects\ConsoleDrawing\06.Rombus\obj\Debug\06.Rombus.pdb
