@@ -1,0 +1,6 @@
+c:\users\asen\documents\visual studio 2015\Projects\11111111\02.Pets\bin\Debug\02.Pets.exe.config
+c:\users\asen\documents\visual studio 2015\Projects\11111111\02.Pets\bin\Debug\02.Pets.exe
+c:\users\asen\documents\visual studio 2015\Projects\11111111\02.Pets\bin\Debug\02.Pets.pdb
+c:\users\asen\documents\visual studio 2015\Projects\11111111\02.Pets\obj\Debug\02.Pets.csprojResolveAssemblyReference.cache
+c:\users\asen\documents\visual studio 2015\Projects\11111111\02.Pets\obj\Debug\02.Pets.exe
+c:\users\asen\documents\visual studio 2015\Projects\11111111\02.Pets\obj\Debug\02.Pets.pdb

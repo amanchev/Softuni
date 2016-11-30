@@ -1,0 +1,6 @@
+c:\users\asen\documents\visual studio 2015\Projects\11111111\04.SoftuniCamp\bin\Debug\04.SoftuniCamp.exe.config
+c:\users\asen\documents\visual studio 2015\Projects\11111111\04.SoftuniCamp\bin\Debug\04.SoftuniCamp.exe
+c:\users\asen\documents\visual studio 2015\Projects\11111111\04.SoftuniCamp\bin\Debug\04.SoftuniCamp.pdb
+c:\users\asen\documents\visual studio 2015\Projects\11111111\04.SoftuniCamp\obj\Debug\04.SoftuniCamp.csprojResolveAssemblyReference.cache
+c:\users\asen\documents\visual studio 2015\Projects\11111111\04.SoftuniCamp\obj\Debug\04.SoftuniCamp.exe
+c:\users\asen\documents\visual studio 2015\Projects\11111111\04.SoftuniCamp\obj\Debug\04.SoftuniCamp.pdb
