@@ -1,0 +1,5 @@
+C:\Users\Asen\Desktop\examPrep\ExamPrep\MathRoundOrF2\bin\Debug\MathRoundOrF2.exe.config
+C:\Users\Asen\Desktop\examPrep\ExamPrep\MathRoundOrF2\bin\Debug\MathRoundOrF2.exe
+C:\Users\Asen\Desktop\examPrep\ExamPrep\MathRoundOrF2\bin\Debug\MathRoundOrF2.pdb
+C:\Users\Asen\Desktop\examPrep\ExamPrep\MathRoundOrF2\obj\Debug\MathRoundOrF2.exe
+C:\Users\Asen\Desktop\examPrep\ExamPrep\MathRoundOrF2\obj\Debug\MathRoundOrF2.pdb

@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\examPrep\ExamPrep\04.Logistics20NovEvning\bin\Debug\04.Logistics20NovEvning.exe.config
+C:\Users\Asen\Desktop\examPrep\ExamPrep\04.Logistics20NovEvning\bin\Debug\04.Logistics20NovEvning.exe
+C:\Users\Asen\Desktop\examPrep\ExamPrep\04.Logistics20NovEvning\bin\Debug\04.Logistics20NovEvning.pdb
+C:\Users\Asen\Desktop\examPrep\ExamPrep\04.Logistics20NovEvning\obj\Debug\04.Logistics20NovEvning.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\examPrep\ExamPrep\04.Logistics20NovEvning\obj\Debug\04.Logistics20NovEvning.exe
+C:\Users\Asen\Desktop\examPrep\ExamPrep\04.Logistics20NovEvning\obj\Debug\04.Logistics20NovEvning.pdb

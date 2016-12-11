@@ -1,0 +1,5 @@
+C:\Users\Asen\Desktop\examPrep\ExamPrep\05.Axe28Aug\bin\Debug\05.Axe28Aug.exe.config
+C:\Users\Asen\Desktop\examPrep\ExamPrep\05.Axe28Aug\bin\Debug\05.Axe28Aug.exe
+C:\Users\Asen\Desktop\examPrep\ExamPrep\05.Axe28Aug\bin\Debug\05.Axe28Aug.pdb
+C:\Users\Asen\Desktop\examPrep\ExamPrep\05.Axe28Aug\obj\Debug\05.Axe28Aug.exe
+C:\Users\Asen\Desktop\examPrep\ExamPrep\05.Axe28Aug\obj\Debug\05.Axe28Aug.pdb

@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\examPrep\ExamPrep\01.Profit28Aug\bin\Debug\01.Profit28Aug.exe.config
+C:\Users\Asen\Desktop\examPrep\ExamPrep\01.Profit28Aug\bin\Debug\01.Profit28Aug.exe
+C:\Users\Asen\Desktop\examPrep\ExamPrep\01.Profit28Aug\bin\Debug\01.Profit28Aug.pdb
+C:\Users\Asen\Desktop\examPrep\ExamPrep\01.Profit28Aug\obj\Debug\01.Profit28Aug.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\examPrep\ExamPrep\01.Profit28Aug\obj\Debug\01.Profit28Aug.exe
+C:\Users\Asen\Desktop\examPrep\ExamPrep\01.Profit28Aug\obj\Debug\01.Profit28Aug.pdb

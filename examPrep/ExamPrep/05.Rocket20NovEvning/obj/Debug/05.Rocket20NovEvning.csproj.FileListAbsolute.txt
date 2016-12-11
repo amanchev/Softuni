@@ -1,0 +1,5 @@
+C:\Users\Asen\Desktop\examPrep\ExamPrep\05.Rocket20NovEvning\bin\Debug\05.Rocket20NovEvning.exe.config
+C:\Users\Asen\Desktop\examPrep\ExamPrep\05.Rocket20NovEvning\bin\Debug\05.Rocket20NovEvning.exe
+C:\Users\Asen\Desktop\examPrep\ExamPrep\05.Rocket20NovEvning\bin\Debug\05.Rocket20NovEvning.pdb
+C:\Users\Asen\Desktop\examPrep\ExamPrep\05.Rocket20NovEvning\obj\Debug\05.Rocket20NovEvning.exe
+C:\Users\Asen\Desktop\examPrep\ExamPrep\05.Rocket20NovEvning\obj\Debug\05.Rocket20NovEvning.pdb

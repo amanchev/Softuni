@@ -1,0 +1,5 @@
+C:\Users\Asen\Desktop\examPrep\ExamPrep\02.FlowerShop20NovEvning\bin\Debug\02.FlowerShop20NovEvning.exe.config
+C:\Users\Asen\Desktop\examPrep\ExamPrep\02.FlowerShop20NovEvning\bin\Debug\02.FlowerShop20NovEvning.exe
+C:\Users\Asen\Desktop\examPrep\ExamPrep\02.FlowerShop20NovEvning\bin\Debug\02.FlowerShop20NovEvning.pdb
+C:\Users\Asen\Desktop\examPrep\ExamPrep\02.FlowerShop20NovEvning\obj\Debug\02.FlowerShop20NovEvning.exe
+C:\Users\Asen\Desktop\examPrep\ExamPrep\02.FlowerShop20NovEvning\obj\Debug\02.FlowerShop20NovEvning.pdb

@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\examPrep\ExamPrep\06.MaxCombination20NovEvning\bin\Debug\06.MaxCombination20NovEvning.exe.config
+C:\Users\Asen\Desktop\examPrep\ExamPrep\06.MaxCombination20NovEvning\bin\Debug\06.MaxCombination20NovEvning.exe
+C:\Users\Asen\Desktop\examPrep\ExamPrep\06.MaxCombination20NovEvning\bin\Debug\06.MaxCombination20NovEvning.pdb
+C:\Users\Asen\Desktop\examPrep\ExamPrep\06.MaxCombination20NovEvning\obj\Debug\06.MaxCombination20NovEvning.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\examPrep\ExamPrep\06.MaxCombination20NovEvning\obj\Debug\06.MaxCombination20NovEvning.exe
+C:\Users\Asen\Desktop\examPrep\ExamPrep\06.MaxCombination20NovEvning\obj\Debug\06.MaxCombination20NovEvning.pdb
