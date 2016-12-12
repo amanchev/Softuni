@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\06.StupidPassGenerator6March\bin\Debug\06.StupidPassGenerator6March.exe.config
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\06.StupidPassGenerator6March\bin\Debug\06.StupidPassGenerator6March.exe
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\06.StupidPassGenerator6March\bin\Debug\06.StupidPassGenerator6March.pdb
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\06.StupidPassGenerator6March\obj\Debug\06.StupidPassGenerator6March.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\06.StupidPassGenerator6March\obj\Debug\06.StupidPassGenerator6March.exe
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\06.StupidPassGenerator6March\obj\Debug\06.StupidPassGenerator6March.pdb

@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\05.Diamond17Jul\bin\Debug\05.Diamond17Jul.exe.config
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\05.Diamond17Jul\bin\Debug\05.Diamond17Jul.exe
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\05.Diamond17Jul\bin\Debug\05.Diamond17Jul.pdb
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\05.Diamond17Jul\obj\Debug\05.Diamond17Jul.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\05.Diamond17Jul\obj\Debug\05.Diamond17Jul.exe
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\05.Diamond17Jul\obj\Debug\05.Diamond17Jul.pdb

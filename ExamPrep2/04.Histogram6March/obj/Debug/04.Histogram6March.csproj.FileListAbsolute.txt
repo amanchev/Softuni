@@ -1,0 +1,5 @@
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\04.Histogram6March\bin\Debug\04.Histogram6March.exe.config
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\04.Histogram6March\bin\Debug\04.Histogram6March.exe
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\04.Histogram6March\bin\Debug\04.Histogram6March.pdb
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\04.Histogram6March\obj\Debug\04.Histogram6March.exe
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\04.Histogram6March\obj\Debug\04.Histogram6March.pdb

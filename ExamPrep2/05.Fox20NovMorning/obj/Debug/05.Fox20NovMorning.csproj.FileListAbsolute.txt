@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\05.Fox20NovMorning\bin\Debug\05.Fox20NovMorning.exe.config
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\05.Fox20NovMorning\bin\Debug\05.Fox20NovMorning.exe
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\05.Fox20NovMorning\bin\Debug\05.Fox20NovMorning.pdb
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\05.Fox20NovMorning\obj\Debug\05.Fox20NovMorning.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\05.Fox20NovMorning\obj\Debug\05.Fox20NovMorning.exe
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\05.Fox20NovMorning\obj\Debug\05.Fox20NovMorning.pdb

@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\06.Digits\bin\Debug\06.Digits.exe.config
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\06.Digits\bin\Debug\06.Digits.exe
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\06.Digits\bin\Debug\06.Digits.pdb
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\06.Digits\obj\Debug\06.Digits.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\06.Digits\obj\Debug\06.Digits.exe
+C:\Users\Asen\Desktop\examPrep2\ExamPrep2\06.Digits\obj\Debug\06.Digits.pdb
